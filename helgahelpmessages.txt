@@ -1,6 +1,7 @@
 input_words|help_message
 secret,message,fourbolt,test|message from helga (secret)
 secret,message,dbs|That guy failed my training course nine times in a row!
+secret,message,pavo|💀
 channels,missing|Hey, cadet! That sounds annoying. Check this out for a possible reason why: https://discord.com/channels/936413500408995850/936415070299226152/1233228556004495403
 select,roles|All opt-in roles are described in the https://discord.com/channels/936413500408995850/936415045296984074 channel of our Discord server. React to the message there to add yourself to whichever roles you like. If you change your mind, simply un-react to the same message to remove the corresponding role. To use the role, tag it in an appropriate channel. Others with the role will be pinged and know that you want to play!
 anyone,online|Check out our https://discord.com/channels/936413500408995850/936414685278928996 and https://discord.com/channels/936413500408995850/936414448799842314 channels to see who is playing in real time.
@@ -19,8 +20,13 @@ opl,help|Oh no! Looks like you need help with OPL! Check out our guide here: htt
 custom,skins,how|There are two secret skins for UYA, and five for DL. You can learn how to unlock them at: https://github.com/Horizon-Private-Server/horizon-wiki/blob/main/up-your-arsenal/skins.md
 save,password,option| We recommend enabling the "Save Password" option and selecting a strong password for both games. For more info: https://discord.com/channels/936413500408995850/1068297466912444558/1257697478858375208
 where,update,maps|You can find the latest custom map downloads at https://www.rac-horizon.com/
+where,get,maps|You can find the latest custom map downloads at https://www.rac-horizon.com/
 any,new,updates|Check out the latest change logs at https://discord.com/channels/936413500408995850/1207780391084105788 for DL or https://discord.com/channels/936413500408995850/1213398512201637929 for UYA.
+any,new,maps|Check out the latest change logs at https://discord.com/channels/936413500408995850/1207780391084105788 for DL or https://discord.com/channels/936413500408995850/1213398512201637929 for UYA.
 forge,map|You can get started with our Forge custom map editor at https://github.com/Horizon-Private-Server/horizon-forge/wiki/Setup-Guide
+how,play,dreadball|Make sure your base game mode is set to CTF!
+how,play,snd|Make sure your base game mode is set to Conquest!
+how,play,tag|Make sure your base game mode is set to King of the Hill!
 where,DZO|You can download DZO from our website at https://www.rac-horizon.com/
 what,cycling|In short, cycling consists of firing three specific weapons and being able to rapidly switch between them. For UYA, the three weapons are the Flux Rifle, Gravity Bomb, and Blitz Gun. For DL, the three weapons are the Fusion Rifle, B6-Obliterator, and Magma Cannon. In competitive lobbies, it is common for these three weapons to be the only ones enabled.
 dl,training,video|Check out our DL Competitive Training YouTube playlist: https://www.youtube.com/playlist?list=PLLaViRLf6UBH2PNUVVVE0ea8xYq0ZpOmZ
